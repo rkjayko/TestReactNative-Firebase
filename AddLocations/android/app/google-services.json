@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769284129814",
+    "firebase_url": "https://addlocations.firebaseio.com",
+    "project_id": "addlocations",
+    "storage_bucket": "addlocations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769284129814:android:0ebed4e31fcc3689f4e137",
+        "android_client_info": {
+          "package_name": "com.addlocations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769284129814-kdrffktsa9dkikdjj2h7csaj3kn8393d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDO1_AnJ5rJNr5VKxs1mvpGyFzzkYSA-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769284129814-kdrffktsa9dkikdjj2h7csaj3kn8393d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
