@@ -107,7 +107,7 @@ export default class App extends Component {
           <View>
             <Text> Ingresar Coordenada X</Text>
             <TextInput
-              placeholder="Coordenada x"
+              placeholder="Coordenada y"
               value={this.state.focusedLocation.latitude}
               onChangeText={val => this.setState({latitude: val})}
             />
